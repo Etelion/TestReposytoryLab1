@@ -1,0 +1,7 @@
+F:\універ\IVкурс\Безпека даних\Lab1\Lab1\bin\Release\Lab1.exe
+F:\універ\IVкурс\Безпека даних\Lab1\Lab1\bin\Release\Lab1.pdb
+F:\універ\IVкурс\Безпека даних\Lab1\Lab1\obj\x86\Release\Lab1.Form1.resources
+F:\універ\IVкурс\Безпека даних\Lab1\Lab1\obj\x86\Release\Lab1.Properties.Resources.resources
+F:\універ\IVкурс\Безпека даних\Lab1\Lab1\obj\x86\Release\Lab1.csproj.GenerateResource.Cache
+F:\універ\IVкурс\Безпека даних\Lab1\Lab1\obj\x86\Release\Lab1.exe
+F:\універ\IVкурс\Безпека даних\Lab1\Lab1\obj\x86\Release\Lab1.pdb

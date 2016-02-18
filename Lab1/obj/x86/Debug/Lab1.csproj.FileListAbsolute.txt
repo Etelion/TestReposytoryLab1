@@ -1,0 +1,16 @@
+C:\Users\student\Documents\Visual Studio 2010\Projects\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\student\Documents\Visual Studio 2010\Projects\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\Lab1\Lab1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2010\Projects\Lab1\Lab1\obj\x86\Debug\Lab1.Form1.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Lab1\Lab1\obj\x86\Debug\Lab1.Properties.Resources.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Lab1\Lab1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\student\Documents\Visual Studio 2010\Projects\Lab1\Lab1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\student\Documents\Visual Studio 2010\Projects\Lab1\Lab1\obj\x86\Debug\Lab1.exe
+C:\Users\student\Documents\Visual Studio 2010\Projects\Lab1\Lab1\obj\x86\Debug\Lab1.pdb
+F:\універ\IVкурс\Безпека даних\Lab1\Lab1\obj\x86\Debug\Lab1.exe
+F:\універ\IVкурс\Безпека даних\Lab1\Lab1\obj\x86\Debug\Lab1.pdb
+F:\універ\IVкурс\Безпека даних\Lab1\Lab1\bin\Debug\Lab1.exe
+F:\універ\IVкурс\Безпека даних\Lab1\Lab1\bin\Debug\Lab1.pdb
+F:\універ\IVкурс\Безпека даних\Lab1\Lab1\obj\x86\Debug\Lab1.Form1.resources
+F:\універ\IVкурс\Безпека даних\Lab1\Lab1\obj\x86\Debug\Lab1.Properties.Resources.resources
+F:\універ\IVкурс\Безпека даних\Lab1\Lab1\obj\x86\Debug\Lab1.csproj.GenerateResource.Cache
